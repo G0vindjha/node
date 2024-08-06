@@ -1,6 +1,6 @@
 // const mongoose = require('mongoose');
 
-// mongoose.connect('mongodb+srv://govind:govind@govind.qswri9g.mongodb.net/?retryWrites=true&w=majority&appName=govind');
+// mongoose.connect();
 
 // const userSchema = mongoose.Schema({
 //     name:String,
